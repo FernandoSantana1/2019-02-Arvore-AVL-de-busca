@@ -1,0 +1,10 @@
+E:\OneDrive\Visual Studio\C# - 4 Periodo\Arvore De Busca\Arvore De Busca\bin\Debug\Arvore De Busca.exe.config
+E:\OneDrive\Visual Studio\C# - 4 Periodo\Arvore De Busca\Arvore De Busca\bin\Debug\Arvore De Busca.exe
+E:\OneDrive\Visual Studio\C# - 4 Periodo\Arvore De Busca\Arvore De Busca\bin\Debug\Arvore De Busca.pdb
+E:\OneDrive\Visual Studio\C# - 4 Periodo\Arvore De Busca\Arvore De Busca\obj\Debug\Arvore De Busca.csprojAssemblyReference.cache
+E:\OneDrive\Visual Studio\C# - 4 Periodo\Arvore De Busca\Arvore De Busca\obj\Debug\Arvore_De_Busca.Form1.resources
+E:\OneDrive\Visual Studio\C# - 4 Periodo\Arvore De Busca\Arvore De Busca\obj\Debug\Arvore_De_Busca.Properties.Resources.resources
+E:\OneDrive\Visual Studio\C# - 4 Periodo\Arvore De Busca\Arvore De Busca\obj\Debug\Arvore De Busca.csproj.GenerateResource.cache
+E:\OneDrive\Visual Studio\C# - 4 Periodo\Arvore De Busca\Arvore De Busca\obj\Debug\Arvore De Busca.csproj.CoreCompileInputs.cache
+E:\OneDrive\Visual Studio\C# - 4 Periodo\Arvore De Busca\Arvore De Busca\obj\Debug\Arvore De Busca.exe
+E:\OneDrive\Visual Studio\C# - 4 Periodo\Arvore De Busca\Arvore De Busca\obj\Debug\Arvore De Busca.pdb
